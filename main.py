@@ -1,1 +1,5 @@
-i = 1+1
+"""Module """
+from random import random
+
+i = random()
+print(i)
