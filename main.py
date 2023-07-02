@@ -1,4 +1,3 @@
-"""Module """
 from random import random
 
 i = random()
